@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing customized Android OS and building my own kernels.
 - 🌱 I’m currently learning the coding in UBERTC and using Android Studio.
 - 💞️ I’m looking to collaborate on making my own OS (based on LOS) which is too much for me alone to handle.
-- 📫 How to reach me : Email: deozaru@protonmail.com Facebook: www.facebook.com/arthur.leywin.j
+- 📫 How to reach me : Email: degozaru@protonmail.com Facebook: www.facebook.com/arthur.leywin.j
 
 <!---
 YourMentor1/YourMentor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
