@@ -9,6 +9,8 @@
 * 📫 How to reach me : Email: degozaru@protonmail.com Facebook: www.facebook.com/arthur.leywin.j
 
 <!-- Image -->
-<img src="https://wallpaper.dog/large/988057.jpg"/>
+<img src="https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif"/>
+
+![Anydesk](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-000000?style=for-the-badge&logo=Anydesk&logoColor=white)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
