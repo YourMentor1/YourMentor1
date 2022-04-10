@@ -1,3 +1,6 @@
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 - 👋 Hi, I’m @YourMentor1
 - 👀 I’m interested in developing customized Android OS and building my own kernels.
 - 🌱 I’m currently learning the coding in UBERTC and using Android Studio.
