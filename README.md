@@ -8,4 +8,7 @@
 * 💞️ I’m looking to collaborate on making my own OS (based on LOS) which is too much for me alone to handle.
 * 📫 How to reach me : Email: degozaru@protonmail.com Facebook: www.facebook.com/arthur.leywin.j
 
+<!-- Image -->
+<img src="https://wallpaper.dog/large/988057.jpg"/>
+
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
