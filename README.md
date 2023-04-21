@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<!-- hit counter -->
+<img src="https://count.getloli.com/get/@YMTR?theme=rule34" alt=":name" />
+</div>
 
-<!--
-**YourMentor1/YourMentor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Intro:
+  
+- :telescope: I’m a college freshman, and currently studying 'Kotlin.'
 
-Here are some ideas to get you started:
+- :seedling: You want to help? Feel free. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :fire: Stats
+  
+ <div align='center'>
+
+![GitHub Stats](https://raw.githubusercontent.com/SSL-ACTX/SSL-ACTX/main/generated/overview.svg)
+![GitHub Stats](https://raw.githubusercontent.com/SSL-ACTX/SSL-ACTX/main/generated/languages.svg)
+  
+</div>
